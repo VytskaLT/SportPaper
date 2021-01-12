@@ -20,13 +20,6 @@ SportPaper can be built by running `./sportpaper build`  and you will find the f
 
 Maven
 -----------
-Repository:
-```xml
-<repository>
-  <id>ashcon-snapshots</id>
-  <url>https://repo.ashcon.app/nexus/content/repositories/snapshots/</url>
-</repository>
-```
 API:
 ```xml
 <dependency>
